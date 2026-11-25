@@ -1,10 +1,10 @@
 ---
 document_id: "university_mathematics_de:studienweg"
-series_id: "university_mathematics_de:M1-L1"
-series_part: 56
-document_version: "0.1.0"
+series_id: "university_mathematics_de:_index"
+series_part: 81
+document_version: "0.1.1"
 created: "2026-11-12"
-updated: "2026-11-18"
+updated: "2026-11-24"
 title: "Studienweg"
 author: "Stephan Kühn"
 document_type: "Begleitmaterial"
@@ -104,3 +104,53 @@ Offizielle Modulhandbücher bzw. Studienseiten, Stand 10.11.2026. Die Zuordnung 
 - [M4-L13 – Mathematik für Architektur, Baukonstruktion und Ingenieurwesen](../M4-L13.md) – eigenständige Wahl- und Anwendungslektion, keine Hochschulpflichtveranstaltung.
 - [M4-L14 – Mathematik für Luftfahrt, Raumfahrt und Navigation](../M4-L14.md) – eigenständige Wahl- und Anwendungslektion, keine Hochschulpflichtveranstaltung.
 :::
+
+## Ergänzende Lernwege und Vertiefungen {#S7}
+
+Die folgenden Lektionen ergänzen die bestehenden Lernwege. Beachte die Niveaus und Voraussetzungen in den Lektionen; die Zuordnung ist keine allgemeingültige Studienordnung.
+
+### M5 – Algebra und Zahlentheorie
+
+- [M5-L1 – Teilbarkeit, euklidischer Algorithmus und Bézout](../M5-L1.md) — Bachelor; Wahlpflicht-Brücke
+- [M5-L2 – Kongruenzen und chinesischer Restsatz](../M5-L2.md) — Bachelor; Wahlpflicht-Brücke
+- [M5-L3 – Untergruppen, Nebenklassen und Satz von Lagrange](../M5-L3.md) — Bachelor; Wahlpflicht
+- [M5-L4 – Normalteiler und Quotientengruppen](../M5-L4.md) — Bachelor; Wahlpflicht
+- [M5-L5 – Ideale, Polynomringe und Körpererweiterungen](../M5-L5.md) — Bachelor; Wahlpflicht / Master-Brücke
+
+### M6 – Komplexe Analysis
+
+- [M6-L1 – Kurvenintegrale und Cauchys Integralformel](../M6-L1.md) — Bachelor; Wahlpflicht
+- [M6-L2 – Laurentreihen, Pole und Residuensatz](../M6-L2.md) — Bachelor; Wahlpflicht
+
+### M7 – Numerik und Optimierung
+
+- [M7-L1 – Interpolation und Approximation](../M7-L1.md) — Bachelor; Wahlpflicht
+- [M7-L2 – Numerische Quadratur und Fehlerabschätzung](../M7-L2.md) — Bachelor; Wahlpflicht
+- [M7-L3 – Runge–Kutta-Verfahren und numerische Stabilität](../M7-L3.md) — Bachelor; Wahlpflicht
+- [M7-L4 – KKT-Bedingungen und aktive Nebenbedingungen](../M7-L4.md) — Masterorientierung; Fortgeschrittene Vertiefung
+
+### M8 – Algebraische Topologie
+
+- [M8-L1 – Homotopie und Fundamentalgruppe](../M8-L1.md) — Bachelor; Wahlpflicht
+
+### M9 – Stochastik, Finanz- und Versicherungsmathematik
+
+- [M9-L1 – Bedingte Erwartung und Martingale](../M9-L1.md) — Bachelor; Wahlpflicht
+- [M9-L2 – Brownsche Bewegung und quadratische Variation](../M9-L2.md) — Bachelor; Wahlpflicht
+- [M9-L3 – Itô-Formel und stochastische Differentialgleichungen](../M9-L3.md) — Master; Wahlpflicht
+- [M9-L4 – Arbitragefreie Bewertung im Binomialmodell](../M9-L4.md) — Master; Wahlpflicht
+- [M9-L5 – Versicherungsrisiko und kollektives Risikomodell](../M9-L5.md) — Master; Wahlpflicht
+
+### M10 – Seminar und Forschung
+
+- [M10-L1 – Mathematische Literatur, Beweislektüre und Seminar](../M10-L1.md) — Bachelor; Seminar
+- [M10-L2 – Mathematisches Forschungsprojekt und Reproduzierbarkeit](../M10-L2.md) — Master; Forschungsprojekt
+
+### M11 – Analysis, lineare Algebra und Wahrscheinlichkeit vertieft
+
+- [M11-L1 – Totale Ableitung, Jacobi-Matrix und Umkehrsatz](../M11-L1.md) — Bachelor; Studiengrundlagen und Vertiefung
+- [M11-L2 – Variablentransformation und Integralsätze](../M11-L2.md) — Bachelor; Studiengrundlagen und Vertiefung
+- [M11-L3 – Skalarprodukte, Orthogonalprojektion und Spektralsatz](../M11-L3.md) — Bachelor; Studiengrundlagen und Vertiefung
+- [M11-L4 – Gesetz der großen Zahlen und zentraler Grenzwertsatz](../M11-L4.md) — Bachelor; Studiengrundlagen und Vertiefung
+- [M11-L5 – Banachräume und Fixpunktsatz](../M11-L5.md) — Bachelor; Vertiefung und Master-Brücke
+

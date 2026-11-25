@@ -1,10 +1,10 @@
 ---
 document_id: "university_mathematics_de:quellenverzeichnis"
-series_id: "university_mathematics_de:M1-L1"
-series_part: 57
-document_version: "0.1.0"
+series_id: "university_mathematics_de:_index"
+series_part: 82
+document_version: "0.1.3"
 created: "2026-11-12"
-updated: "2026-11-18"
+updated: "2026-11-24"
 title: "Quellenverzeichnis"
 author: "Stephan Kühn"
 document_type: "Begleitmaterial"
@@ -25,7 +25,7 @@ license: "CC BY-NC-SA 4.0 International"
 
 Die externen Quellen sind pro Kurs getrennt. Die Lektionsseiten und die Navigation funktionieren offline; externe Links benötigen Internet.
 
-**31 unterschiedliche URLs** in **16 Lektionen** mit externen Webverweisen.
+**Altbestand:** **31 unterschiedliche URLs** in **16 Lektionen** mit externen Webverweisen.
 
 1.  [M2-L9 – Fourier-Analysis und Signalverarbeitung](../M2-L9.md)
     - [https://www.ocw.mit.edu/courses/6-341-discrete-time-signal-processing-fall-2005/pages/lecture-notes/](https://www.ocw.mit.edu/courses/6-341-discrete-time-signal-processing-fall-2005/pages/lecture-notes/){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"}
@@ -89,3 +89,57 @@ Die externen Quellen sind pro Kurs getrennt. Die Lektionsseiten und die Navigati
     - [https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/](https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"}
     - [https://elib.dlr.de/143300/](https://elib.dlr.de/143300/){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"}
     - [https://www.dlr.de/de/irs/ueber-uns/abteilungen/systemanalyse-raumsegment/abteilungsaktivitaeten](https://www.dlr.de/de/irs/ueber-uns/abteilungen/systemanalyse-raumsegment/abteilungsaktivitaeten){referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank"}
+
+## Fachquellen der Erweiterungslektionen {#S1}
+
+Die folgenden Belege ergänzen das historische Verzeichnis. Bereits dort aufgeführte Quellen sind an ihrer bestehenden Fundstelle um die neue Verwendung ergänzt.
+
+- [Alan Reynolds – The Cauchy formula and power series](https://alan-reynolds.quarto.pub/introduction-to-complex-analysis/power.html) · M6-L1: §7.1–7.2 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M6-L1](../M6-L1.md#S8)
+- [Alan Reynolds – Singularities and the Residue Theorem](https://alan-reynolds.quarto.pub/introduction-to-complex-analysis/singularities.html) · M6-L2: §8.1–8.3 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M6-L2](../M6-L2.md#S8)
+- [University of Oxford, Introduction to University Mathematics (2025–26): Logic and Proof](https://courses.maths.ox.ac.uk/mod/page/view.php?id=65664) · M10-L1: Counterexamples · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M10-L1](../M10-L1.md#S7)
+- [NIST DLMF – Functions of a Complex Variable](https://dlmf.nist.gov/1.10) · M6-L2: §1.10(iii)–(iv) · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M6-L2](../M6-L2.md#S8)
+- [NIST DLMF – Quadrature](https://dlmf.nist.gov/3.5) · M7-L2: §3.5(v) · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M7-L2](../M7-L2.md#S7)
+- [Gustav Delius, Numerical Analysis, Chapter 6](https://gustavdelius.github.io/NumericalAnalysis2024/nmODE.html) · M10-L2: Definition 6.2; Exercise 6.23 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M10-L2](../M10-L2.md#S7)
+- [Lorenzo Naranjo, Stochastic Foundations for Finance: Brownian Motion](https://lorenzonaranjo.com/class-materials/stochastic-processes/notes/brownian-motion.html) · M9-L2: Brownian Motion; Quadratic Variation of Brownian Motion · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M9-L2](../M9-L2.md#S7)
+- [De Anza College, Calculus IV, §3.4](https://math.libretexts.org/Courses/De_Anza_College/Calculus_IV:_Multivariable_Calculus/03:_Vector_Calculus/3.04:_Greens_Theorem) · M11-L2: Circulation, rectangle proof, flux and regions with holes · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L2](../M11-L2.md#S7)
+- [Allen Hatcher – Algebraic Topology](https://math.uchicago.edu/~farb/algtop2023/Hatcher.pdf) · M8-L1: §1.1, Theorem 1.7; path homotopy and product groups · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M8-L1](../M8-L1.md#S7)
+- [MIT 18.013A, §24.2](https://ocw.mit.edu/ans7870/18/18.013a/textbook/chapter24/section02.html) · M11-L2: Area integrals and absolute Jacobian · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L2](../M11-L2.md#S7)
+- [MIT OpenCourseWare, 18.642: Stochastic Calculus](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/mit18_642_f24_lec19_1.pdf) · M9-L3: S. 21–23 (PDF-Text) (Prüfumfang: Text) · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M9-L3](../M9-L3.md#S7)
+- [Loss Data Analytics, 2nd ed., Chapter 7](https://openacttexts.github.io/LDAVer2/ChapAggLossModels.html) · M9-L5: §7.3 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M9-L5](../M9-L5.md#S7)
+- [Laurentiu Maxim – Math 751, Lecture Notes Week 3](https://people.math.wisc.edu/~lmaxim/751f14w3.pdf) · M8-L1: §1, Theorem 1 and Lemmas 1.1–1.3 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M8-L1](../M8-L1.md#S7)
+- [Stanford EE364A – Stephen Boyd, Convex Optimization I](https://see.stanford.edu/materials/lsocoee364a/transcripts/ConvexOptimizationI-Lecture09.html) · M7-L4: Lecture 9, KKT and Slater · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M7-L4](../M7-L4.md#S7)
+- [ACM SIGIR, Artifact Badging](https://sigir.org/general-information/acm-sigir-artifact-badging/) · M10-L2: Artifact Packaging; Results Reproduced and Replicated · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M10-L2](../M10-L2.md#S7)
+- [Bruce Ikenaga – Cosets (Millersville University)](https://sites.millersville.edu/bikenaga/abstract-algebra-1/cosets/cosets.html) · M5-L3: lines 94–141: partition, index, Lagrange · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L3](../M5-L3.md#S8)
+- [Bruce Ikenaga – The First Isomorphism Theorem (Millersville University)](https://sites.millersville.edu/bikenaga/abstract-algebra-1/first-isomorphism-theorem/first-isomorphism-theorem.html) · M5-L4: kernel and quotient examples · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L4](../M5-L4.md#S8)
+- [Bruce Ikenaga – Normal Subgroups and Quotient Groups (Millersville University)](https://sites.millersville.edu/bikenaga/abstract-algebra-1/normal-subgroups/normal-subgroups.html) · M5-L4: lines 139–166: well-defined product · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L4](../M5-L4.md#S8)
+- [Bruce Ikenaga – Quotient Rings of Polynomial Rings (Millersville University)](https://sites.millersville.edu/bikenaga/abstract-algebra-1/quotient-rings-of-polynomial-rings/quotient-rings-of-polynomial-rings.html) · M5-L5: lines 70–97: field criterion and proof · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L5](../M5-L5.md#S8)
+- [Bruce Ikenaga – Subgroups (Millersville University)](https://sites.millersville.edu/bikenaga/abstract-algebra-1/subgroups/subgroups.html) · M5-L3: subgroup criterion · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L3](../M5-L3.md#S8)
+- [Bruce Ikenaga – The Chinese Remainder Theorem (Millersville University)](https://sites.millersville.edu/bikenaga/number-theory/chinese-remainder-theorem/chinese-remainder-theorem.html) · M5-L2: construction and compatibility theorem, lines 58–105, 164–172 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L2](../M5-L2.md#S8)
+- [Bruce Ikenaga – The Extended Euclidean Algorithm (Millersville University)](https://sites.millersville.edu/bikenaga/number-theory/extended-euclidean-algorithm/extended-euclidean-algorithm.html) · M5-L1: algorithm and theorem, lines 2–48 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L1](../M5-L1.md#S8)
+- [Bruce Ikenaga – Linear Congruences (Millersville University)](https://sites.millersville.edu/bikenaga/number-theory/linear-congruences/linear-congruences.html) · M5-L2: theorem and proof, lines 2–46 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M5-L2](../M5-L2.md#S8)
+- [Driscoll/Braun – Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/diffusion/absstab-diffusion.html) · M7-L3: §11.3 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M7-L3](../M7-L3.md#S7)
+- [Driscoll/Braun – Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/globalapprox/polynomial.html) · M7-L1: §9.1 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M7-L1](../M7-L1.md#S7)
+- [Driscoll/Braun – Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/ivp/rk.html) · M7-L3: §6.4 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M7-L3](../M7-L3.md#S7)
+- [Driscoll/Braun – Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/localapprox/integration.html) · M7-L2: §5.6 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M7-L2](../M7-L2.md#S7)
+- [TU Delft, R. Koekoek, The Gram-Schmidt process](https://tudelft.roelofkoekoek.nl/teaching/linalg/orthogonality/gram-schmidt.html) · M11-L3: Projection formula, Gram–Schmidt, QR · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L3](../M11-L3.md#S7)
+- [TU Delft, R. Koekoek, The spectral theorem](https://tudelft.roelofkoekoek.nl/teaching/linalg/symmetric/spectral_theorem.html) · M11-L3: Orthogonal diagonalization and spectral decomposition · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L3](../M11-L3.md#S7)
+- [Stanford University, CS103 Proofwriting Checklist](https://web.stanford.edu/class/cs103/proofwriting_checklist) · M10-L1: Clearly articulate assumptions; scope variables · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M10-L1](../M10-L1.md#S7)
+- [University of Toronto, MAT237, §2.2](https://www.math.toronto.edu/courses/mat237y1/20189/notes/Chapter2/S2.2.html) · M11-L1: Theorem 1, differentiability and Jacobian · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L1](../M11-L1.md#S7)
+- [University of Toronto, MAT237, §3.3](https://www.math.toronto.edu/courses/mat237y1/20189/notes/Chapter3/S3.3.html) · M11-L1: Theorem 1, inverse function theorem · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L1](../M11-L1.md#S7)
+- [University of Toronto, MAT267, Tutorial 6](https://www.math.utoronto.ca/almut/MAT267/Tutorial-6A.pdf) · M11-L5: p. 1: assumptions, uniqueness, existence, geometric error estimate; PDF text only · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L5](../M11-L5.md#S7)
+- [Clare Wallace, Durham University: Mathematical Finance, Chapter 2](https://www.maths.dur.ac.uk/users/clare.wallace/MF/Chapter2.html) · M9-L4: §2.2–2.5 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M9-L4](../M9-L4.md#S7)
+- [Ellen G. Powell, Stochastic Processes, Durham University](https://www.maths.dur.ac.uk/users/ellen.g.powell/SPnotes.html) · M9-L1: §4.1–4.4 · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M9-L1](../M9-L1.md#S7)
+- [H. Pishro-Nik, Introduction to Probability, §7.1.1](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php) · M11-L4: Weak law, Chebyshev · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L4](../M11-L4.md#S7)
+- [H. Pishro-Nik, Introduction to Probability, §7.1.2](https://www.probabilitycourse.com/chapter7/7_1_2_central_limit_theorem.php) · M11-L4: i.i.d. CLT, standardization, normal approximation · Zuletzt abgerufen: 2026-11-24 · Inhaltlich geprüft: 2026-11-24 · [M11-L4](../M11-L4.md#S7)
+
+## Weitere vorhandene Verweise {#S2}
+
+- [Theorem Proving in Lean 4, Kapitel zu Aussagen und Beweisen](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) · Vorhandener Verweis in [M4-L4](../M4-L4.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.fu-berlin.de/studium/studienangebot/master/data-science/index.html](https://www.fu-berlin.de/studium/studienangebot/master/data-science/index.html) · Vorhandener Verweis in [A7](../A7.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.fu-berlin.de/studium/studienangebot/master/informatik/index.html](https://www.fu-berlin.de/studium/studienangebot/master/informatik/index.html) · Vorhandener Verweis in [A7](../A7.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.fu-berlin.de/studium/studienangebot/master/mathematik/index.html](https://www.fu-berlin.de/studium/studienangebot/master/mathematik/index.html) · Vorhandener Verweis in [A6](../A6.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.mathematics.uni-bonn.de/studium/de/studiengaenge/bachelorstudiengang-mathematik](https://www.mathematics.uni-bonn.de/studium/de/studiengaenge/bachelorstudiengang-mathematik) · Vorhandener Verweis in [studienweg](studienweg.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.mathematics.uni-bonn.de/studium/de/studiengaenge/masterstudiengang-mathematics](https://www.mathematics.uni-bonn.de/studium/de/studiengaenge/masterstudiengang-mathematics) · Vorhandener Verweis in [studienweg](studienweg.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.tu.berlin/math/studienberatung/studiengaenge/masterstudiengaenge/mathematik-msc](https://www.tu.berlin/math/studienberatung/studiengaenge/masterstudiengaenge/mathematik-msc) · Vorhandener Verweis in [A6](../A6.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/computer-science-informatik-m-sc](https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/computer-science-informatik-m-sc) · Vorhandener Verweis in [A7](../A7.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
+- [https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/mathematik-m-sc](https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/mathematik-m-sc) · Vorhandener Verweis in [A6](../A6.md) · Aktuelle Abruf- und Inhaltsprüfung nicht belegt.
